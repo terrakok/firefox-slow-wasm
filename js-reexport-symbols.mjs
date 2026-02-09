@@ -458,6 +458,7 @@ window['org_jetbrains_skia_PictureRecorder__1nGetRecordingCanvas'] = wasmApi['or
 window['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsPicture'] = wasmApi['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsPicture'];
 window['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsPictureWithCull'] = wasmApi['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsPictureWithCull'];
 window['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsDrawable'] = wasmApi['org_jetbrains_skia_PictureRecorder__1nFinishRecordingAsDrawable'];
+window['org_jetbrains_skia_PixelRef__1nGetPixels'] = wasmApi['org_jetbrains_skia_PixelRef__1nGetPixels'];
 window['org_jetbrains_skia_PixelRef__1nGetRowBytes'] = wasmApi['org_jetbrains_skia_PixelRef__1nGetRowBytes'];
 window['org_jetbrains_skia_PixelRef__1nGetGenerationId'] = wasmApi['org_jetbrains_skia_PixelRef__1nGetGenerationId'];
 window['org_jetbrains_skia_PixelRef__1nNotifyPixelsChanged'] = wasmApi['org_jetbrains_skia_PixelRef__1nNotifyPixelsChanged'];
