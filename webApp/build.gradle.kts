@@ -13,13 +13,7 @@ kotlin {
     }
 
     wasmJs {
-        browser {
-            commonWebpackConfig {
-                devServer = (devServer ?: KotlinWebpackConfig.DevServer()).apply {
-                    open = false
-                }
-            }
-        }
+        browser()
         binaries.executable()
     }
 
