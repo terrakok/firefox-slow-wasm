@@ -1,3 +1,5 @@
+rootProject.name = "firefox_slow"
+
 pluginManagement {
     repositories {
         google {
